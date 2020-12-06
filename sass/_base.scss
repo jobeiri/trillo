@@ -15,7 +15,10 @@
   --color-white: #fff;
   --color-black: #000;
 
-  --shadow-dark: 0 2rem 6rem rgba(var(--color-black), 0.3);
+  --shadow-dark: 0 2rem 6rem rgba(0, 0, 0, 0.3);
+  --shadow-light: 0 2rem 5rem rgba(0, 0, 0, 0.06);
+
+  --line: 0.1rem solid var(--color-grey-light-2);
 }
 
 * {
