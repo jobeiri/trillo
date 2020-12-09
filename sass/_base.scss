@@ -21,9 +21,12 @@
   --line: 0.1rem solid var(--color-grey-light-2);
 }
 
+// Sass variables
 $bp-xl: 75em; // 1200px/16px = 75em
 $bp-lg: 68.75em; // 1100px/16px = 68.75em
 $bp-md: 56.25em; // 900px/16px = 56.25em
+$bp-sm: 37.5em; // 600px/16px = 37.5em
+$bp-xs: 31.25em; // 500px/16px = 31.25em
 
 * {
   margin: 0;
